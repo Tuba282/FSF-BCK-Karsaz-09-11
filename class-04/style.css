@@ -1,0 +1,23 @@
+.unorder {
+    list-style-type: lower-roman;
+
+}
+
+h1 {
+    background-color: brown;
+}
+
+span {
+    background-color: peru;
+}
+
+.square {
+    width: 300px;
+    height: 500px;
+    background-color: peru;
+    /* border: 6px solid black; */
+    /* border: 6px groove black; */
+    /* border: 6px dashed black; */
+    border: 6px double black;
+    /* border : width style color; */
+}
