@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.instaDiv {
+    width: 400px;
+    height: 500px;
+    font-family: "Roboto", sans-serif;
+    border: 1px solid gray;
+}
+
+.instaBTN {
+    width: 63%;
+    border: none;
+    color: white;
+    padding: 4px;
+    background-color: rgb(26, 135, 203);
+}
+
+input {
+    width: 60%;
+    padding: 4px;
+    display: block;
+    margin: 10px;
+}
