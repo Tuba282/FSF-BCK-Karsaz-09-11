@@ -1,0 +1,30 @@
+
+.outer-01{
+    width: 400px;
+
+}
+.inner-01{
+    width: 100%;
+    height: 70px;
+    background-color: brown;
+}
+
+
+.inner-02{
+    width: 100%;
+    height: 70px;
+    background-color:rgba(165, 42, 42, 0.821);
+}
+
+.inner-03{
+    width: 100%;
+    height: 70px;
+    background-color:rgba(165, 42, 42, 0.659);
+}
+
+
+.inner-04{
+    width: 100%;
+    height: 70px;
+    background-color:rgba(165, 42, 42, 0.434);
+}
