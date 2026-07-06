@@ -45,15 +45,27 @@
 //  5 x 2 = i*a (10)
 //  5 x 3 = i*a (15)
 
-let table = 7;
+// let table = 7;
 
-for (let i = 1; i <= 10; i = i + 1) {
-    console.log(`${table} x ${i} =  ${i * table}`);
-    //  7 14  ---- 
-}
+// for (let i = 1; i <= 10; i = i + 1) {
+//     console.log(`${table} x ${i} =  ${i * table}`);
+//     //  7 14  ---- 
+// }
 
 
 // step - 1 - start  (1)
 // step - 2 - condition match 
 // step - 3 - curly braces -- execute
 // step - 4 - update
+
+
+
+// -- weather card 
+// --- calculator
+// ---- ATM 
+// background-ChaNGER
+//  TABLE GENERATOR 
+//  - COUNTING GENERATOR 
+// Guess game (Level --- EASY, MEDIUM , HARD)  
+
+// --- Shairs Example ------ 
