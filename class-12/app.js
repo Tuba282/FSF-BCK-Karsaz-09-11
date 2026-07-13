@@ -24,7 +24,7 @@
 
 
 
-// -------------- FUnction TYpes ----------------
+// -------------- FUnction Types ----------------
 // ----- 4 Types ----------
 // --- ❌ parameter but ❌ return Type
 // --- ✔ parameter but ❌ return Type
@@ -44,3 +44,11 @@ function addition() {
 let sum = addition()
 
 console.log(sum);
+
+
+// Monday JS-01 Quiz Topics ------------
+
+// DataTypes + Variables 
+// comparision operators + conditions
+// Loops (ForLoop + While)
+// Functions + all types
