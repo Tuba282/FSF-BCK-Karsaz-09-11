@@ -1,6 +1,9 @@
 // ---- arrays -----
 // jub single location pe multiple data data save karwana ho , to Arrays 
 
+
+
+
 let name = "Ali"
 let names = ["Ali", "Usama", "Kashan", "Ahmed", "Haroon" , "Sufyan", "Atif"]
 let fruits = ["Apple", "Banana", "Mango", "Strawberray", "PineApple", "WaterMelon", "Grapes"]
