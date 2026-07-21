@@ -67,3 +67,11 @@ console.log("original array ",girlNames);
 console.log("splice ",girlNames.splice(2,3,"Ali", "Ahmed" ));
 
 console.log("original array ",girlNames);
+
+
+
+// DataTypes + Variables 
+// comparision operators + conditions
+// Loops (ForLoop + While)
+// Functions + all types
+// array + 6 methods (push pop shift unshift)
