@@ -62,7 +62,6 @@ console.log("slice ",girlNames.slice(2,6));
 console.log("original array ",girlNames);
 
 
-
 // splice(startindex(included),deleteCount, addElement)
 
 console.log("splice ",girlNames.splice(2,3,"Ali", "Ahmed" ));
